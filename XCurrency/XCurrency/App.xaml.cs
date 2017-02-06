@@ -13,7 +13,7 @@ namespace XCurrency
         {
             InitializeComponent();
 
-            MainPage = new XCurrency.MainPage();
+            MainPage = new XCurrency.Pages.MainPage();
         }
 
         protected override void OnStart()
